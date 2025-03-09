@@ -1,0 +1,16 @@
+.home-container {
+    padding-top: 10px;
+}
+
+
+
+.products-content {
+    width: 100%;
+    max-width: 1520px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.carousel-container {
+    max-height: 500px;
+}
