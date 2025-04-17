@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1679fbfe.css",
+    "main.js": "/static/js/main.42b2e79e.js",
+    "static/js/977.4b9860eb.chunk.js": "/static/js/977.4b9860eb.chunk.js",
+    "static/js/732.eb49b0ce.chunk.js": "/static/js/732.eb49b0ce.chunk.js",
+    "static/media/Samplevideo1.mp4": "/static/media/Samplevideo1.5a3565c10becd1fcccf6.mp4",
+    "static/media/sampleVideo.mp4": "/static/media/sampleVideo.e0d70b24ba5aa068141a.mp4",
+    "static/media/teammember2.jpg": "/static/media/teammember2.9f4cca7c87d1e18b3f56.jpg",
+    "static/media/teammember5.jpg": "/static/media/teammember5.cdabb8cae03f3f14226d.jpg",
+    "static/media/apparel.jpg": "/static/media/apparel.9785b911b5caa890e2d8.jpg",
+    "static/media/productssubcatergory.jpg": "/static/media/productssubcatergory.e5643476b6eacf4319a1.jpg",
+    "static/media/teammember1.jpg": "/static/media/teammember1.91048fc4fae72127d408.jpg",
+    "static/media/home.jpg": "/static/media/home.ccf2e03a810805c8b5d3.jpg",
+    "static/media/highlightImg1.jpg": "/static/media/highlightImg1.620e95ce8de48f94b1e5.jpg",
+    "static/media/highlightImg.jpg": "/static/media/highlightImg.e42b069525aaf2595b83.jpg",
+    "static/media/bikingGear.jpg": "/static/media/bikingGear.4d4bc755fd8466c472d2.jpg",
+    "index.html": "/index.html",
+    "main.1679fbfe.css.map": "/static/css/main.1679fbfe.css.map",
+    "main.42b2e79e.js.map": "/static/js/main.42b2e79e.js.map",
+    "977.4b9860eb.chunk.js.map": "/static/js/977.4b9860eb.chunk.js.map",
+    "732.eb49b0ce.chunk.js.map": "/static/js/732.eb49b0ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1679fbfe.css",
+    "static/js/main.42b2e79e.js"
+  ]
+}
